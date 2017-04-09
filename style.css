@@ -11,12 +11,15 @@ body{
 }
 li {
                    /* float: left; */
+                     font-size: 140%;
                 }
 li a {
                     display: block;
                     color: white;
                     text-align: center;
                     padding: 24px 26px;
+                       font-size: 140%;
+
                     text-decoration: none;
                 }
 li a:hover {
