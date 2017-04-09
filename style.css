@@ -14,7 +14,7 @@ body{
 li {
                    float: left; 
                    font-size: 140%;
-                   padding:30px; 
+                   padding:20px; 
 
 }
 
@@ -22,7 +22,7 @@ li a {
                     display: block;
                     color: white;
                     text-align: center;
-                    padding:30px; 
+                    padding:20px; 
                     font-size: 140%;
                     text-decoration: none;
 }
