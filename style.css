@@ -35,3 +35,6 @@ p{
                   margin-right:7em;
                   font-size:140%;
                 }
+.img-circle {
+    border-radius: 50%;
+}
