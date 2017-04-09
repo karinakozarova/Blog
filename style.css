@@ -10,31 +10,30 @@ body{
 
 }
 li {
-                   /* float: left; */
-                     font-size: 140%;
-                }
+                   float: left; 
+                   font-size: 140%;
+}
 li a {
                     display: block;
                     color: white;
                     text-align: center;
                     padding: 24px 26px;
-                       font-size: 140%;
-
+                    font-size: 140%;
                     text-decoration: none;
-                }
+}
 li a:hover {
                     background-color: #111;
-                }
+ }
 h1 {
                   font-size: 250%;
                   font-style: italic;;
-                }
+ }
 p{
                   text-indent: 8em;
                   margin-left:7em;
                   margin-right:7em;
                   font-size:140%;
-                }
+ }
 .img-circle {
     border-radius: 50%;
     height = 50%
