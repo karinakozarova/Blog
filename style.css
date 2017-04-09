@@ -23,10 +23,14 @@ li a {
                     text-align: center;
                     padding:10px; 
                     text-decoration: none;
+                    font-size:190%;
+
 }
 
 li a:hover {
                     background-color: #111;
+                    font-size:190%;
+
  }
 
 h1 {
