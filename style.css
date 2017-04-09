@@ -4,37 +4,47 @@ ul {
                     padding: 0;
                     overflow: hidden;
                     background-color: #333;
-                }
+}
+
 body{
         background-color: #F8F8FF
 
 }
+
 li {
                    float: left; 
                    font-size: 140%;
+                   padding:0px; 
+
 }
+
 li a {
                     display: block;
                     color: white;
                     text-align: center;
-                    padding: 24px 26px;
+                    padding:0px; 
                     font-size: 140%;
                     text-decoration: none;
 }
+
 li a:hover {
                     background-color: #111;
  }
+
 h1 {
                   font-size: 250%;
                   font-style: italic;;
  }
+
 p{
                   text-indent: 8em;
                   margin-left:7em;
                   margin-right:7em;
                   font-size:140%;
  }
+
 .img-circle {
     border-radius: 50%;
     height = 50%;
+    width = 50%;
 }
