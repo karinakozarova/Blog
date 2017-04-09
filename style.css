@@ -13,7 +13,7 @@ body{
 
 li {
                    float: left; 
-                   font-size: 140%;
+                   font-size: 100%;
                    padding:20px; 
 
 }
@@ -23,7 +23,7 @@ li a {
                     color: white;
                     text-align: center;
                     padding:20px; 
-                    font-size: 140%;
+                    font-size: 100%;
                     text-decoration: none;
 }
 
