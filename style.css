@@ -77,9 +77,10 @@ h3 {
 
 footer {
 	text-align: center;
-	font-size: 350%;
+	font-size: 120%;
         font-style: italic;
 	align: "center";	
+	text-color: #c5ccd3
 }
 
 footer a:link, footer a:visited {
