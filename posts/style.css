@@ -1,0 +1,88 @@
+body{
+             background-color: #F8F8FF
+	           font: georgia, sans-serif;
+	           color: #555753;
+	}
+
+.menu{
+                    float: left;
+                    padding:1%;
+                    display: block;
+                    color: white;
+                    text-align: center;
+                    text-decoration: none;
+                    font-size:300%;
+}
+
+.site_logo{
+		    float: right;
+                    display: block;
+}
+
+.contact_logo{
+        padding: 4%;
+}
+
+
+.img-circle {
+    border-radius: 50%;
+    height = 7%;
+    width = 50%;
+    float: "left";
+}
+ul {
+                    list-style-type: none;
+                    overflow: hidden;
+                    background-color: #333;
+}
+
+p{
+                  text-indent: 7%;
+                  margin-left:7%;
+                  margin-right:5%;
+                  font-size:190%;
+ }
+
+a:link {
+	font-weight: bold;
+	color: #B7A5DF;
+	}
+
+a:visited {
+	font-weight: bold;
+	color: #D4CDDC;
+	}
+
+a:hover, a:focus, a:active {
+	text-decoration: blink;
+	color: #9685BA;
+	}
+
+abbr {
+	border-bottom: none;
+	}
+
+h1 {
+                    font-size: 350%;
+                    font-style: italic;
+		    align: "center";
+   }
+
+h3 {
+  	font: italic normal 1.4em georgia, sans-serif;
+  	letter-spacing: 1px;
+  	margin-bottom: 0;
+  	color: #7D775C;
+  	}
+
+footer {
+	text-align: center;
+	font-size: 120%;
+        font-style: italic;
+	align: "center";	
+	text-color: #c5ccd3
+}
+
+footer a:link, footer a:visited {
+	margin-right: 20px;
+	}
