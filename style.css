@@ -69,10 +69,11 @@ h1 {
    }
 
 h3 {
-  	font: italic normal 1.4em georgia, sans-serif;
+  	font: italic normal georgia, sans-serif;
   	letter-spacing: 1px;
   	margin-bottom: 0;
   	color: #7D775C;
+	font-size: 250%
   	}
 
 footer {
