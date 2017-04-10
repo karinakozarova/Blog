@@ -1,9 +1,7 @@
 ul {
-                    list-style-type: none;
+                    list-style-type: circle;
                     margin: 2px;
-                    padding: 10px;
                     overflow: hidden;
-                    background-color: #333;
 }
 
 body{
@@ -19,6 +17,7 @@ body{
                     text-align: center;
                     text-decoration: none;
                     font-size:190%;
+	  background-color: #333;
 
 }
 
