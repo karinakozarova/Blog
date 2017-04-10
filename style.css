@@ -1,7 +1,12 @@
+.contact_logo{
+	margin: 5%;
+        padding: 15%;
+}
+
 ul {
                     list-style-type: none;
-                    margin: 2px;
-                    padding: 10px;
+                    margin: 5%;
+                    padding: 15%;
                     overflow: hidden;
                     background-color: #333;
 }
