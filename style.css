@@ -1,7 +1,7 @@
 body{
              background-color: #F8F8FF
-	           font: 175% georgia, sans-serif;
-	           line-height: 1.88889;
+	           font: georgia, sans-serif;
+	          
 	           color: #555753;
 	}
 
@@ -12,7 +12,7 @@ body{
                     color: white;
                     text-align: center;
                     text-decoration: none;
-                    font-size:250%;
+                    font-size:350%;
 }
 .site_logo{
 		    float: right;
