@@ -13,11 +13,12 @@ body{
                     text-align: center;
                     text-decoration: none;
                     font-size:190%;
+		    width = 25%;
 }
 .site_logo{
 		    float: right;
                     display: block;
-		    height = 2%;
+		    width = 25%;
 }
 .contact_logo{
         padding: 4%;
