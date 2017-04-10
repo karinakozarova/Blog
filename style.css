@@ -31,8 +31,7 @@ body{
 }
 ul {
                     list-style-type: none;
-                    margin: 5%;
-                    padding: 5%;
+		    width = device-width;
                     overflow: hidden;
                     background-color: #333;
 }
