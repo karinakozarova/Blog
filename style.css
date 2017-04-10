@@ -16,9 +16,8 @@ body{
 }
 .site_logo{
 		    float: right;
-                    padding:5%;
                     display: block;
-		    height = 5%;
+		    height = 2%;
 }
 .contact_logo{
         padding: 4%;
