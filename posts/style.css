@@ -30,6 +30,12 @@ body{
     width = 50%;
     float: "left";
 }
+
+.tab {
+	margin-left: 40px; 
+}
+
+
 ul {
                     list-style-type: none;
                     overflow: hidden;
