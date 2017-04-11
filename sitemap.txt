@@ -1,0 +1,9 @@
+http://www.karinakozarova.me/Blog/home
+http://www.karinakozarova.me/Blog/about
+http://www.karinakozarova.me/Blog/contact_info
+http://www.karinakozarova.me/Blog/posts
+http://www.karinakozarova.me/Blog/posts/post_1
+http://www.karinakozarova.me/Blog/posts/post_2
+http://www.karinakozarova.me/Blog/pics
+http://www.karinakozarova.me/Blog/style.css
+http://www.karinakozarova.me/Blog/posts/style.css
