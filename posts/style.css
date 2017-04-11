@@ -14,6 +14,17 @@ body{
                     font-size:300%;
 }
 
+.menu-search{
+                    align: right;
+                    display: block;
+                    color: silver;
+                    text-align: center;
+                    text-decoration: none;
+                    font-size:200%;
+		    font: italic normal georgia, sans-serif;
+
+}
+
 .site_logo{
 		    float: right;
                     display: block;
@@ -79,11 +90,12 @@ h1 {
    }
 
 h3 {
-  	font: italic normal 1.4em georgia, sans-serif;
+  	font: italic normal georgia, sans-serif;
   	letter-spacing: 1px;
   	margin-bottom: 0;
   	color: #7D775C;
-  	}
+	font-size: 250%;
+}
 
 footer {
 	text-align: center;
