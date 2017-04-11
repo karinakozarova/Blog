@@ -23,9 +23,9 @@ body{
         padding: 4%;
 }
 
-.img.center {
+.img-center {
     display: block;
-    margin: 0 auto;
+    margin: 14%;
     height = 45%;	
 }
 .img-circle {
