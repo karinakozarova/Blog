@@ -14,6 +14,15 @@ body{
                     font-size:300%;
 }
 
+.menu-search{
+                    align: center;
+                    display: block;
+                    color: white;
+                    text-align: center;
+                    text-decoration: none;
+                    font-size:200%;
+}
+
 .site_logo{
 		    float: right;
                     display: block;
