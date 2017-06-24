@@ -37,12 +37,12 @@ body{
 .img-center {
     display: block;
     margin: 14%;
-    height = 45%;	
+    height: 45%;	
 }
 .img-circle {
     border-radius: 50%;
-    height = 7%;
-    width = 50%;
+    height: 7%;
+    width: 50%;
     float: "left";
 }
 
