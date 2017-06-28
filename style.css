@@ -1,73 +1,73 @@
 body{
-             	   background-color: #F8F8FF
-	           font: georgia, sans-serif;
-	           color: #555753;
+	background-color: #F8F8FF
+	color: #555753;
+	font: georgia, sans-serif;
 }
 
 .menu{
-                    float: left;
-                    padding:1%;
-                    display: block;
-                    color: white;
-                    text-align: center;
-                    text-decoration: none;
-                    font-size:300%;
+	color: white;
+	display: block;
+	float: left;
+	font-size:300%;
+	padding:1%;
+	text-align: center;
+	text-decoration: none;
 }
 
 .menu-search{
-                    align: right;
-                    display: block;
-                    color: silver;
-                    text-align: center;
-                    text-decoration: none;
-                    font-size:200%;
-		    font: italic normal georgia, sans-serif;
+	align: right;
+	color: silver;
+	display: block;
+	font-size:200%;
+	font: italic normal georgia, sans-serif;
+	text-align: center;
+	text-decoration: none;
 
 }
 
 .site_logo{
-		    float: right;
-                    display: block;
+	display: block;
+	float: right;
 }
 
 .contact_logo{
-        padding: 4%;
+	padding: 4%;
 }
 
 
 .img-circle {
-    border-radius: 50%;
-    height = 7%;
-    width = 50%;
-    float: "left";
+	border-radius: 50%;
+	float: "left";
+	height = 7%;
+	width = 50%;
 }
 
 ul {
-                    list-style-type: none;
-                    overflow: hidden;
-                    background-color: #333;
+	background-color: #333;
+	list-style-type: none;
+	overflow: hidden;
 }
 
 p{
-                  text-indent: 7%;
-                  margin-left:7%;
-                  margin-right:5%;
-                  font-size:190%;
- }
+	font-size:190%;
+	margin-left:7%;
+	margin-right:5%;
+	text-indent: 7%;
+}
 
 a:link {
-	font-weight: bold;
 	color: #B7A5DF;
+	font-weight: bold;
 }
 
 a:visited {
-	font-weight: bold;
 	color: #D4CDDC;
+	font-weight: bold;
 }
 
 a:hover, a:focus, a:active {
-	text-decoration: blink;
 	color: #9685BA;
+	text-decoration: blink;
 }
 
 abbr {
@@ -75,24 +75,24 @@ abbr {
 }
 
 h1 {
-                    font-size: 350%;
-                    font-style: italic;
-		    align: "center";
+	align: "center";
+	font-size: 350%;
+	font-style: italic;
 }
 
 h3 {
-  	font: italic normal georgia, sans-serif;
-  	letter-spacing: 1px;
-  	margin-bottom: 0;
-  	color: #7D775C;
+	color: #7D775C;
 	font-size: 250%;
+	font: italic normal georgia, sans-serif;
+	letter-spacing: 1px;
+	margin-bottom: 0;
 }
 
 footer {
-	text-align: center;
-	font-size: 120%;
-        font-style: italic;
 	align: "center";	
+	font-size: 120%;
+	font-style: italic;
+	text-align: center;
 	text-color: #c5ccd3;
 }
 
