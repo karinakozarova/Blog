@@ -80,3 +80,13 @@ footer a:link, footer a:visited {
 	margin-right: 20px;
 }
 
+.post{
+    text-align: center;
+    align-content: center;
+    background-color: #DCDCDC;
+    font-family: "Bookman Old Style";
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 3%;
+   border-left: 6px solid red;
+}
