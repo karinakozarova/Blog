@@ -1,28 +1,21 @@
 body{
-	background-color: #F8F8FF
-	color: #555753;
-	font: georgia, sans-serif;
+	background-color: mintcream;
 }
 
-.menu{
-	color: white;
-	display: block;
-	float: left;
-	font-size:300%;
-	padding:1%;
-	text-align: center;
-	text-decoration: none;
+.navbar {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	border: 0;
+	border-radius: 0;
+	margin-bottom: 0;
+	font-size: 24px;
+	letter-spacing: 5px;
+	position: fixed;
+	background-color: rgba(23, 23, 23, 0.83);
 }
 
-.menu-search{
-	align: right;
-	color: silver;
-	display: block;
-	font-size:200%;
-	font: italic normal georgia, sans-serif;
-	text-align: center;
-	text-decoration: none;
-
+.nav.navbar-nav.navbar-right li a {
+	color: #ffedfb;
 }
 
 .site_logo{
@@ -43,9 +36,9 @@ body{
 }
 
 ul {
-	background-color: #333;
 	list-style-type: none;
 	overflow: hidden;
+	color: #c5ccd3;
 }
 
 p{
@@ -55,20 +48,6 @@ p{
 	text-indent: 7%;
 }
 
-a:link {
-	color: #B7A5DF;
-	font-weight: bold;
-}
-
-a:visited {
-	color: #D4CDDC;
-	font-weight: bold;
-}
-
-a:hover, a:focus, a:active {
-	color: #9685BA;
-	text-decoration: blink;
-}
 
 abbr {
 	border-bottom: none;
@@ -78,6 +57,7 @@ h1 {
 	align: "center";
 	font-size: 350%;
 	font-style: italic;
+	padding-top: 7%;
 }
 
 h3 {
@@ -99,3 +79,4 @@ footer {
 footer a:link, footer a:visited {
 	margin-right: 20px;
 }
+
